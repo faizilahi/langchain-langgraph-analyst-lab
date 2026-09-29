@@ -1,0 +1,6 @@
+{
+  "metrics": [
+    {"metric_id": "M_GM_PCT", "name": "gross_margin_pct", "value": 0.2412, "as_of": "2024-09-10"},
+    {"metric_id": "M_REV", "name": "revenue", "value": 184220.4, "as_of": "2024-09-10"}
+  ]
+}
